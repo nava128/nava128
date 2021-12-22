@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nava128
-- 👀 I’m interested in Desarrolla Aplicaciones Moviles Android e IOS
+- 👀 I’m interested in Desarrollar Aplicaciones Moviles Android e IOS
 - 🌱 I’m currently learning Flutter UI and Firebase..
 - 💞️ I’m looking to collaborate on mis estudiantes
 - 📫 How to reach me eliseo.nava@cbtis128.edu.mx
